@@ -1,2 +1,2 @@
 # hyprland
-hyprland backup scripts
+hyprland config backup scripts
